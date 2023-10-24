@@ -1,3 +1,9 @@
+// Kirby James Fernandez
+// Lab Assignment 2 - Parser
+// Date: 9/26/2023
+
+
+
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h> // Added for exit()
