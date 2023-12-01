@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/kirby/CECS/FALL-2024/342/design-paradigms/parsing2",
-      "program": "/home/kirby/CECS/FALL-2024/342/design-paradigms/parsing2/build/Debug/outDebug",
+      "cwd": "/home/kirby/CECS/FALL-2024/342/design-paradigms/dynamic_memory_allocator",
+      "program": "/home/kirby/CECS/FALL-2024/342/design-paradigms/dynamic_memory_allocator/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

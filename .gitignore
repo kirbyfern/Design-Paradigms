@@ -1,1 +1,2 @@
-.vscode
+.vscode/*
+!.vscode/    # Include the .vscode folder itself
